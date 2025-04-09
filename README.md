@@ -10,7 +10,7 @@ This is an introduction to my learning pathway!
 
 1. Understand the core AWS services:
 
-   1 - EC2
+  1 - EC2
    
   2 - S3
   

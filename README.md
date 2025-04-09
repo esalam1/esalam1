@@ -25,4 +25,6 @@ This is an introduction to my learning pathway!
 ## Resources
 
 Here are some resources I am learning from and find really useful so far:
+
 https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
+https://www.youtube.com/@LearnLinuxTV

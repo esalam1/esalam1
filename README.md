@@ -10,17 +10,17 @@ This is an introduction to my learning pathway!
 
 1. Understand the core AWS services:
 
-  1 - EC2
+   1 - EC2
    
-  2 - S3
+   2 - S3
   
-  3 - Lambda
+   3 - Lambda
   
-  4 - RDS
+   4 - RDS
 
-3. Gain hands-on experience by building projects.
+2. Gain hands-on experience by building projects.
 
-4. Learn about DevOps tools and practices.
+3. Learn about DevOps tools and practices.
 
 ## Resources
 

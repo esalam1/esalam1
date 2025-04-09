@@ -3,7 +3,7 @@
 This is an introduction to my learning pathway!
 
 - 🌱 I’m currently learning AWS, with a particular focus on the AWS Solutions Architect Associate exam
-- 🤔 I’m looking for help with any resources or tools which can help me create some projects to showcase
+- 🤔 I’m looking for help with any resources or tools which can help me create some projects to showcase my skills and solidfy my hands-on pratice and knowledge
 - 🧠 My learning goals are to gain hands-on experience and learn new tools and technologies
 
 ## Learning Goals

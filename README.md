@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**esalam1/esalam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is an introduction to my learning pathway!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning AWS, with a particular focus on the AWS Solutions Architect Associate exam
+- 🤔 I’m looking for help with any resources or tools which can help me create some projects to showcase
+- 🧠 My learning goals are to gain hands-on experience and learn new tools and technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning Goals
+
+1. Understand the core AWS services:
+  1 - EC2
+  2 - S3
+  3 - Lambda
+  4 - RDS
+
+2. Gain hands-on experience by building projects.
+
+3. Learn about DevOps tools and practices.
+
+## Resources
+
+Here are some resources I am learning from and find really useful so far:
+https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
